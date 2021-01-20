@@ -1,2 +1,0 @@
-Manual Git 
-Rafael Dias 
